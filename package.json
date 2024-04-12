@@ -1,0 +1,17 @@
+{
+  "name": "elo-rank-nodejs",
+  "version": "1.0.0",
+  "description": "This repository implements the Elo rating system for dynamic picture voting contests. It updates picture ratings based on user preferences through pairwise comparisons. Ideal for engaging competitions or surveys. Check the documentation to get started.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
